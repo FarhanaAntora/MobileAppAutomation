@@ -16,10 +16,10 @@ This repository contains the mobile automation test projects that demonstrate te
 
 `git clone https://github.com/FarhanaAntora/MobileAppAutomation`
 
-3. Import the project in the IDE like InteliJ IDEA, Eclipse
-4. Add necessary dependencies
-5. Write or modify test script and customize test data if needed
-6. Excecute the test script using TestNG
+2. Import the project in the IDE like InteliJ IDEA, Eclipse
+3. Add necessary dependencies
+4. Write or modify test script and customize test data if needed
+5. Excecute the test script using TestNG
 
 ## Components of the code
 
